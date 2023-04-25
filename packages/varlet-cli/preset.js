@@ -1,6 +1,6 @@
 const babelConfig = require('./lib/config/babel.config')
 
-const defaultFn=()=>{
+const defaultFn = () => {
   return 'default'
 }
 
