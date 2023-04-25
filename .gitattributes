@@ -1,2 +1,2 @@
 *.html linguist-vendored
-/packgages/index.vue
+/packgages/index.vue merge=ours
